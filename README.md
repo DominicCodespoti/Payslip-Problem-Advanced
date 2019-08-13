@@ -56,3 +56,5 @@ Net Income:4082
 Super: 450  
 
 Thank you for using MYOB!
+
+If an appropriate CSV file is supplied, manual user input for each category can be bypassed and the file can be directly loaded, allowing for multiple sets of data to be processed in one run through.
